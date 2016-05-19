@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>EggSemm FastTracker Exporter</Name>
+  <Id>info.slipstreamdemo.EggsemmFasttrackerExporter</Id>
+  <Version>1</Version>
+  <ApiVersion>5</ApiVersion>
+  <Author>aldroid</Author>
+  <AutoUpgraded>false</AutoUpgraded>
+  <Category>Abandonware</Category>
+  <Description>Exports FastTracker XM files.  It's pre-alpha quality, but it is cross-platform, simple to use, and has no extra dependencies.  You WILL need to process your files in a proper FastTracker-capable tracker after use.</Description>
+  <Homepage>http://slipstreamdemo.info</Homepage>
+  <Platform/>
+  <Icon/>
+</RenoiseScriptingTool>
